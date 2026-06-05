@@ -1,0 +1,15 @@
+.git
+.github
+node_modules
+.env
+.env.local
+*.log
+coverage
+dist
+.cache
+.tmp
+test-reports
+tests
+README.md
+docs
+CONTEXT.md
